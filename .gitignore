@@ -36,3 +36,10 @@ x86
 *.exe
 *.out
 *.app
+/Chapter02/.vs/Chapter2/v17/Browse.VC.opendb
+/Chapter02/.vs/Chapter2/v17/Browse.VC.db-shm
+/Chapter02/.vs/Chapter2/v17/Browse.VC.db-wal
+/Chapter02/.vs/Chapter2/v17/Browse.VC.db
+/Chapter02/.vs/Chapter2/v17/.suo
+/Chapter02/.vs/Chapter2/v17/ipch/AutoPCH/cd9d59e12f1dbb28/TIMBER.ipch
+/BGPSFML
